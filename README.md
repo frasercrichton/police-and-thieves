@@ -6,7 +6,11 @@ Try Dalle Mini here:
 
 [https://huggingface.co/spaces/dalle-mini/dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 
+Limited to 6 images of 256x256 at at time.
+
 # Running the Jupyter Notebook
+
+The Jupyter Notebook included here allows to generate more images and save them to Google Drive. It also allows for customising other aspect of the image generation,
 
 ## Prerequisites 
 
