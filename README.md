@@ -1,8 +1,24 @@
 # dalle-mini
 
+![cop](https://user-images.githubusercontent.com/52700324/175556508-9ea39768-7ad1-4d96-a93e-3eef5d3e7386.png)
+
 Try Dalle Mini here:
 
 [https://huggingface.co/spaces/dalle-mini/dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+
+# Running the Jupyter Notebook
+
+## Prerequisites 
+
+* a [Google Account](https://support.google.com/accounts/answer/)
+* a [Weights & Biases account](https://wandb.ai/site)
+
+## Running Jupyter Notebooks in Google Collab 
+
+[Learning the CoLab Jupyter Notebook Environment](https://www.webagesolutions.com/blog/learning-the-colab-jupyter-notebook-environment)
+
+
+
 
 The limitations of the model and its Misuse, Malicious Use, and Out-of-Scope Use 
 
