@@ -1,4 +1,4 @@
-# dalle-mini
+# Police and Thieves
 
 ![cop](https://user-images.githubusercontent.com/52700324/175556508-9ea39768-7ad1-4d96-a93e-3eef5d3e7386.png)
 ![23](https://user-images.githubusercontent.com/52700324/175558040-adac32a0-b429-4d7e-ae59-c08e15213d7a.jpg)
@@ -56,47 +56,3 @@ https://github.com/google-research-datasets/conceptual-12m
 The OpenAI subset of YFCC100M, which contains about 15 million images and that we further sub-sampled to 2 million images due to limitations in storage space. They used both title and description as caption and removed html tags, new lines and extra spaces.
 
 For fine-tuning the image encoder, a subset of 2 million images were used. All images (about 15 million) were used for training the Seq2Seq model.
-
-
-# Terms for Police
-
-"law enforcement", "constabulary", "cop", "police force"
-
-"law officer", "police force", 
-
-"policeman", "police woman", "patrolman", "patrol woman",
-"officer", "detective", 
-
-"gendarme", "beat cop"
-
-
-    deputy
-    flatfoot
-    fuzz
-    lawman
-    officer of the law
-    patrolman
-    patrolwoman
-    peace officer
-    police officer
-    policeman
-    policewoman
-    sheriff
-    the man 
-
-
-trooper
-
-precinct
-
-patrol car
-
-SWAT
-
-NYPD
-
-Met Police
-
-Māori warden
-
-https://www.thesaurus.com/browse/patrolman
