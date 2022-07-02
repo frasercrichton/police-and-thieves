@@ -42,14 +42,11 @@ The Jupyter Notebook included here allows to generate more images and save them 
 
 ## Datasets
 
-* [Conceptual Captions Dataset](https://aclanthology.org/P18-1238/), which contains 3 million image and caption pairs.
-
-https://github.com/google-research-datasets/conceptual-captions
-
+* [Conceptual Captions Dataset](https://aclanthology.org/P18-1238/), https://github.com/google-research-datasets/conceptual-captions which contains 3 million image and caption pairs.
 
 * [Conceptual 12M](https://arxiv.org/abs/2102.08981), which contains 12 million image and caption pairs.
 https://github.com/google-research-datasets/conceptual-12m
 
-The OpenAI subset of YFCC100M, which contains about 15 million images and that we further sub-sampled to 2 million images due to limitations in storage space. They used both title and description as caption and removed html tags, new lines and extra spaces.
+* The OpenAI subset of YFCC100M, which contains about 15 million images and that we further sub-sampled to 2 million images due to limitations in storage space. They used both title and description as caption and removed html tags, new lines and extra spaces.
 
 For fine-tuning the image encoder, a subset of 2 million images were used. All images (about 15 million) were used for training the Seq2Seq model.
