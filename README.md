@@ -5,9 +5,9 @@
 ![27](https://user-images.githubusercontent.com/52700324/175558076-f28580f9-3827-4a99-88cb-1f4c785b6007.jpg)
 
 
-DALL·E mini is an AI model that creates computer-generated images from text prompts. It uses a model trained using captioned images from datasets available on the internet. Here, it's been given the text prompt 'cop' to generate the image above.
+Craiyon (the rebranded name of DALL·E mini) is an AI model that creates computer-generated images from text prompts. It uses a model trained using captioned images from datasets available on the internet. Here, it's been given the text prompt 'cop' to generate the image above.
 
-Police violence, corruption and the way in which police fail victims of crime have all become key issues in how we have come to understand police in recent years. DALL·E provides a seemingly ambiguous way of considering who police are and what role they have in society. None of the images DALL·E returns are real and yet real images contribute to DALL·E's 'sense' of what a police officer is.
+Police violence, corruption and the way in which police fail victims of crime have all become key issues in how we have come to understand police in recent years. Craiyon provides a seemingly ambiguous way of considering who police are and what role they have in society. None of the images Craiyon returns are real and yet real images contribute to Craiyon's 'sense' of what a police officer is.
 
 The bias that is inherent in every aspect of computer vision is a useful tool. It allows us to deconstruct the institutions that create these technologies and it also allows us to see something of police as an institution itself. Of 99 images returned for the term 'cop' - all were white (only one could be identified as possibly African American) and none were identifiable as a woman. Does this bias come from the technologist's model or dataset? Does it come from the way police are visually represented in society? Or does it come from the bias inherent in institutions like the police?
 
@@ -15,7 +15,7 @@ At this time in generative computer vision, it's still possible to see the trace
 
 I'd like to investigate a little more about this as a topic so I'm going to do that as an Instagram project sharing more as I learn here.
 
-Try Dalle Mini here:
+Try Craiyon here:
 
 [https://huggingface.co/spaces/dalle-mini/dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 
