@@ -17,7 +17,7 @@ I'd like to investigate a little more about this as a topic so I'm going to do t
 
 Try Craiyon here:
 
-[https://huggingface.co/spaces/dalle-mini/dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+[https://www.craiyon.com/](https://www.craiyon.com/)
 
 Limited to 6 images of 256x256 at at time.
 
