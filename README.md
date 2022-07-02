@@ -21,12 +21,9 @@ Try Dalle Mini here:
 
 Limited to 6 images of 256x256 at at time.
 
+# Generating more images
 
-
-https://wandb.ai/onlineinference/ml-news/reports/Beating-The-DALL-E-Mini-Too-much-traffic-please-try-again---VmlldzoyMTg4Mjkz
-
-SOLVED - DALL-E Mini: Too much traffic, please try again by Dave Davies
-
+To get round the limit of six I'm running the Jupyter Notebook included here. It's based on original work here [SOLVED - DALL-E Mini: Too much traffic, please try again by Dave Davies](https://wandb.ai/onlineinference/ml-news/reports/Beating-The-DALL-E-Mini-Too-much-traffic-please-try-again---VmlldzoyMTg4Mjkz)
 
 
 # Running the Jupyter Notebook
