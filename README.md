@@ -50,3 +50,10 @@ https://github.com/google-research-datasets/conceptual-12m
 * The OpenAI subset of YFCC100M, which contains about 15 million images and that we further sub-sampled to 2 million images due to limitations in storage space. They used both title and description as caption and removed html tags, new lines and extra spaces.
 
 For fine-tuning the image encoder, a subset of 2 million images were used. All images (about 15 million) were used for training the Seq2Seq model.
+
+
+
+Running on SageMaker
+
+Lifecycle script
+https://gist.github.com/ottok92/ed6d6b8ec5526b1ec52980812c52da96
