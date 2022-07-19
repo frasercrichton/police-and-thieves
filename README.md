@@ -57,3 +57,7 @@ Running on SageMaker
 
 Lifecycle script
 https://gist.github.com/ottok92/ed6d6b8ec5526b1ec52980812c52da96
+
+Versions of Dalle
+
+https://pypi.org/simple/dalle-mini/
